@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/Users/yan/AndroidStudioProjects/Calculator/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/yan/AndroidStudioProjects/Calculator/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/yan/AndroidStudioProjects/Calculator/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/yan/AndroidStudioProjects/Calculator/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/yan/AndroidStudioProjects/Calculator/app/build/intermediates/merged_res/debug/layout_settings_activity.xml.flat",
+        "source": "/Users/yan/AndroidStudioProjects/Calculator/app/src/main/res/layout/settings_activity.xml"
+    },
+    {
+        "merged": "/Users/yan/AndroidStudioProjects/Calculator/app/build/intermediates/merged_res/debug/drawable-v24_black_ric.jpg.flat",
+        "source": "/Users/yan/AndroidStudioProjects/Calculator/app/src/main/res/drawable-v24/black_ric.jpg"
+    },
+    {
+        "merged": "/Users/yan/AndroidStudioProjects/Calculator/app/build/intermediates/merged_res/debug/drawable_button_stile2.xml.flat",
+        "source": "/Users/yan/AndroidStudioProjects/Calculator/app/src/main/res/drawable/button_stile2.xml"
+    },
+    {
+        "merged": "/Users/yan/AndroidStudioProjects/Calculator/app/build/intermediates/merged_res/debug/font_crashcoursebb.otf.flat",
+        "source": "/Users/yan/AndroidStudioProjects/Calculator/app/src/main/res/font/crashcoursebb.otf"
+    },
+    {
+        "merged": "/Users/yan/AndroidStudioProjects/Calculator/app/build/intermediates/merged_res/debug/layout-land_activity_main.xml.flat",
+        "source": "/Users/yan/AndroidStudioProjects/Calculator/app/src/main/res/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "/Users/yan/AndroidStudioProjects/Calculator/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/yan/AndroidStudioProjects/Calculator/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/yan/AndroidStudioProjects/Calculator/app/build/intermediates/merged_res/debug/font_maidens_song_dingbats.ttf.flat",
+        "source": "/Users/yan/AndroidStudioProjects/Calculator/app/src/main/res/font/maidens_song_dingbats.ttf"
+    },
+    {
+        "merged": "/Users/yan/AndroidStudioProjects/Calculator/app/build/intermediates/merged_res/debug/drawable-v24_ric_night.jpg.flat",
+        "source": "/Users/yan/AndroidStudioProjects/Calculator/app/src/main/res/drawable-v24/ric_night.jpg"
+    },
+    {
+        "merged": "/Users/yan/AndroidStudioProjects/Calculator/app/build/intermediates/merged_res/debug/xml_root_preferences.xml.flat",
+        "source": "/Users/yan/AndroidStudioProjects/Calculator/app/src/main/res/xml/root_preferences.xml"
+    },
+    {
+        "merged": "/Users/yan/AndroidStudioProjects/Calculator/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/yan/AndroidStudioProjects/Calculator/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/yan/AndroidStudioProjects/Calculator/app/build/intermediates/merged_res/debug/drawable-v24_morti_horizontal.jpg.flat",
+        "source": "/Users/yan/AndroidStudioProjects/Calculator/app/src/main/res/drawable-v24/morti_horizontal.jpg"
+    },
+    {
+        "merged": "/Users/yan/AndroidStudioProjects/Calculator/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/yan/AndroidStudioProjects/Calculator/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/yan/AndroidStudioProjects/Calculator/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/yan/AndroidStudioProjects/Calculator/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/yan/AndroidStudioProjects/Calculator/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/yan/AndroidStudioProjects/Calculator/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/yan/AndroidStudioProjects/Calculator/app/build/intermediates/merged_res/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/yan/AndroidStudioProjects/Calculator/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/yan/AndroidStudioProjects/Calculator/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/yan/AndroidStudioProjects/Calculator/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/yan/AndroidStudioProjects/Calculator/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/yan/AndroidStudioProjects/Calculator/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/yan/AndroidStudioProjects/Calculator/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/yan/AndroidStudioProjects/Calculator/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/yan/AndroidStudioProjects/Calculator/app/build/intermediates/merged_res/debug/drawable-v24_morti.jpg.flat",
+        "source": "/Users/yan/AndroidStudioProjects/Calculator/app/src/main/res/drawable-v24/morti.jpg"
+    },
+    {
+        "merged": "/Users/yan/AndroidStudioProjects/Calculator/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/yan/AndroidStudioProjects/Calculator/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/yan/AndroidStudioProjects/Calculator/app/build/intermediates/merged_res/debug/drawable_button_stile.xml.flat",
+        "source": "/Users/yan/AndroidStudioProjects/Calculator/app/src/main/res/drawable/button_stile.xml"
+    },
+    {
+        "merged": "/Users/yan/AndroidStudioProjects/Calculator/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/yan/AndroidStudioProjects/Calculator/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/yan/AndroidStudioProjects/Calculator/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/yan/AndroidStudioProjects/Calculator/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/yan/AndroidStudioProjects/Calculator/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/yan/AndroidStudioProjects/Calculator/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    }
+]
